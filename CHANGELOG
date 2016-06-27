@@ -1,7 +1,8 @@
 CHANGELOG for "website"
 Please list most-recent changes at the top.
 
-2016.06.27_01:00:48_kkerwin1: Added and started work on /website/polls/urls.py and /website/polls/views.py
+2016.06.27_01:07:18_kkerwin1: Edited /website/websiteurls.py to point to views.py in 01:00:48.
+2016.06.27_01:00:48_kkerwin1: Added and started work on /website/polls/urls.py and /website/polls/views.py.
 2016.06.27_00:51.59_kkerwin1: Added "polls" app.
 2016.06.27_00:29:37_kkerwin1: Created initial Django files/forwards; cf. /website.
 2016.06.27_00:17:56_kkerwin1: Initial commit. Created /CHANGELOG and added further detail to /README.md.
